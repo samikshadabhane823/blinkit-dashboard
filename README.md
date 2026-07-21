@@ -51,7 +51,7 @@ Data Modeling
 Interactive Slicers
 📁 Dashboard Preview
 
-Add your dashboard screenshot here.
+dashboard screenshot- https://github.com/samikshadabhane823/blinkit-dashboard/blob/main/Blinkit%20dasboard.png
 
 blinkit-dashboard.png
 🚀 Skills Demonstrated
